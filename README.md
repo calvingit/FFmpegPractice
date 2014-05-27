@@ -1,8 +1,7 @@
-VideoPlayerDemo
+ FFmpegPractice 
 ===============
 
-One Video Player Demo Based On FFmpeg1.0 + SDL2
+***VideoPlayerDemo.cpp:***
+One Video Player Demo Based On FFmpeg + SDL2, No audio, just video!
 
-Test environment：Windows 7 X64，Visual Studio 2008 SP1
-
-PS：No audio, just video!
+----------
